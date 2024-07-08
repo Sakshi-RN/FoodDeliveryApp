@@ -1,0 +1,522 @@
+[
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_logout.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_logout.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_nearbyrestraunt.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_nearbyrestraunt.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_pizzaboy.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_pizzaboy.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_contact.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_contact.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_continuebtn.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_continuebtn.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_otpverificationbg.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_otpverificationbg.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_userprofile.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_userprofile.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_search.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_search.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_order.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_order.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_burgir.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_burgir.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_adresssavebtn.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_adresssavebtn.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_bestchoice.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_bestchoice.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_fvrtbtn.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_fvrtbtn.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_spclfood.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_spclfood.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_addressmap.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_addressmap.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_trackmap.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_trackmap.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_skip.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_skip.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_pizza.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_pizza.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.myproject.app-main-35:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_location.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_location.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_imagepicker.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_imagepicker.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_whitecart.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_whitecart.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_restraunt.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_restraunt.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_tracklocationlogo.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_tracklocationlogo.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_home.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_home.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_bestofferbanners.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_bestofferbanners.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.myproject.app-main-35:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_otpmails.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_otpmails.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_trackcontact.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_trackcontact.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_biryani.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_biryani.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_greenoffer.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_greenoffer.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_splash.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_splash.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_reviewgroupphoto.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_reviewgroupphoto.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_rating.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_rating.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_email.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_email.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_nearbyrestaurant.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_nearbyrestaurant.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_checkbox.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_checkbox.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.myproject.app-main-35:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_locationbtn.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_locationbtn.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.myproject.app-main-35:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_coupencode.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_coupencode.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_btn.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_btn.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_favourite.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_favourite.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_vectoredit.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_vectoredit.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_notificationburger.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_notificationburger.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_forgotpasscodebtn.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_forgotpasscodebtn.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.myproject.app-main-35:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_proflhome.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_proflhome.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_mails.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_mails.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_editprofile.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_editprofile.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_leftbackarrow.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_leftbackarrow.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_reveievbtn.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_reveievbtn.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.myproject.app-main-35:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_phone.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_phone.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_chcekoutbtn.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_chcekoutbtn.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_dropdown.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_dropdown.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_setpasscodebg.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_setpasscodebg.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_resend.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_resend.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_orderconfirm.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_orderconfirm.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_chef.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_chef.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_address.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_address.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_leftarrow.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_leftarrow.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_favouritedishicon.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_favouritedishicon.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_profilescreen.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_profilescreen.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_searchbar.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_searchbar.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.myproject.app-main-35:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_profilepic.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_profilepic.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_rightarr.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_rightarr.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_paynowbtn.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_paynowbtn.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_whitesearch.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_whitesearch.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_viewall.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_viewall.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.myproject.app-main-35:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_whitehome.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_whitehome.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_cross.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_cross.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.myproject.app-main-35:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_privacypolicy.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_privacypolicy.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_reviewprofile.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_reviewprofile.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_sendotpbtn.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_sendotpbtn.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_resendcaptcha.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_resendcaptcha.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_tracklocationbackbtn.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_tracklocationbackbtn.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_redoffer.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_redoffer.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_mapview.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_mapview.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_profileoffers.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_profileoffers.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_creditcard.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_creditcard.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_team.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_team.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_forgotpasscodebg.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_forgotpasscodebg.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_food.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_food.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_deliciouspizza.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_deliciouspizza.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_down.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_down.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_delievryboy.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_delievryboy.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_myorderresataurant.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_myorderresataurant.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_orderprocessed.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_orderprocessed.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_login.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_login.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_backbtn.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_backbtn.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_termsconditions.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_termsconditions.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_dishicon.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_dishicon.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_myorderhaqmburger.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_myorderhaqmburger.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_questionmark.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_questionmark.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_redlocationicon.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_redlocationicon.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_icon.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_icon.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_ellipsebowl.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_ellipsebowl.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_readypickup.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_readypickup.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.myproject.app-main-35:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_flag.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_flag.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_hamburger.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_hamburger.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_trackdistance.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_trackdistance.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_sbilogo.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_sbilogo.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_vectordelt.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_vectordelt.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_myordercall.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_myordercall.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_grouppizza.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_grouppizza.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_saveprofilebtn.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_saveprofilebtn.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.myproject.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_offer.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_offer.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_delete.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_delete.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_navigation.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_navigation.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_gallery.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_gallery.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_searchlocation.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_searchlocation.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_bell.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_bell.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_register.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_register.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_car.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_car.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_whiteoffer.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_whiteoffer.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_reviewfood.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_reviewfood.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_cart.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_cart.png"
+    },
+    {
+        "merged": "com.myproject.app-merged_res-34:/drawable-mdpi_component_assets_verifybtn.png.flat",
+        "source": "com.myproject.app-react-29:/drawable-mdpi/component_assets_verifybtn.png"
+    }
+]
